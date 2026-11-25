@@ -1,0 +1,9 @@
+metric	value	definition
+aligned_gene_universe	15782	Mean control CPM >=5 in both AsPC-1 and UM53 followed by alignment
+covered_GPI_genes	22/27	Panel members with quality-filtered data
+GPI_dual_hits	6	Drug effect >=0.5 and escape effect >=0.5 plus source score >=2 in at least one MSLN line
+GPI_dual_hit_symbols	PIGC,PIGF,PIGM,PIGP,PIGS,PIGT	Genes meeting both criteria
+threshold_combinations	16	Each evaluated separately against a 2000-draw matched null
+draws_reaching_overlap	0/2000	For each threshold combination
+plus_one_estimate	0.00049975	1/2001 at each of the 16 threshold settings
+illustrative_bonferroni	0.15	Approximate adjustment for an assumed family of 300 pathways

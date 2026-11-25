@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this reproduction package, cite it and credit the original data sources listed in the repository."
+type: software
+title: "GPI-anchor biosynthesis in pancreatic cancer CRISPR screens: overlap between relative depletion under MRTX1133 and mesothelin CAR T-cell escape: reproduction package"
+version: 1.0.0
+date-released: 2026-11-26
+repository-code: https://github.com/FENG1567/ras-gpi-msln-cross-screen
+url: https://github.com/FENG1567/ras-gpi-msln-cross-screen/releases/tag/v1.0.0
+license: MIT
+authors:
+  - given-names: Shuo
+    family-names: Feng
+  - given-names: Chao
+    family-names: Shi
+  - given-names: Tianming
+    family-names: Liu
+  - given-names: Haoran
+    family-names: Ding
+  - given-names: Fenghe
+    family-names: Hang
+  - given-names: Zhenghao
+    family-names: Huang
+  - given-names: Liwei
+    family-names: Liu

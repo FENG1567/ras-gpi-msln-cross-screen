@@ -1,0 +1,8 @@
+label	model	antigen	n	gpi	hits	background_hits	p	assessment
+HuP-T3	Human PDAC, KRAS G12R, endogenous MSLN	MSLN CAR	20080	27	18	173	1.21 × 10⁻³¹	MSLN ranked 1st
+KP4_MSLN	Human PDAC, KRAS G12D, engineered MSLN	MSLN CAR	20080	27	16	26	2.08 × 10⁻⁴²	MSLN ranked 6th
+Murine KPC-OVA	Murine PDAC, engineered OVA, OT-I CD8 T cells	OVA-specific TCR	20671	25	0	457	1.0	Engineered antigen and TCR
+Fröse focused	Murine PDAC expressing hCD19	hCD19 CAR	310	4	0	18	1.0	Four GPI genes covered
+Fröse p1112	Murine PDAC in vivo, GPI-bearing p1112 pool	hCD19 CAR	923	20	0	9	1.0	Weak for ruling out GPI escape. No pool-level hCD19-loss control
+Nalm6 day 1	Human B-ALL, pooled day-1 profiles	CD19 CAR	19113	27	0	12	Descriptive	CD19 rank 2, LFC +0.563
+U87	Human glioblastoma	EGFR CAR	20183	27	0	9	1.0	Weak under this rule. EGFR rank 97

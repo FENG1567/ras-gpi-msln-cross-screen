@@ -1,0 +1,3 @@
+"comparison"	"universe"	"n"	"spearman_rho"	"GPI_median_absolute_rank_percentile_difference"	"median_absolute_rank_percentile_difference"
+"gene_summed_raw_CPM_D_drug_vs_per_guide_median"	"all_AsPC1_DMSO_CPM_ge5"	"18001"	"0.791"	"2.9887228487306174"	""
+"gene_summed_raw_CPM_D_drug_vs_per_guide_median_with_both_CAR_sources"	"eligible_and_both_CAR_sources"	"16872"	"0.7905"	"2.9634898055950707"	"8.576339497392127"

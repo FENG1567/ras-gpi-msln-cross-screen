@@ -1,0 +1,200 @@
+{
+  "gpi_n": 25,
+  "neighbours_per_gene": 25,
+  "seed": 261125,
+  "within_cpm_decile": true,
+  "metrics": [
+    {
+      "statistic": "gene_summed_drug_rank_percentile",
+      "observed": 72.79409672830725,
+      "median": 46.64129919393076,
+      "q025": 36.228840682788054,
+      "q975": 57.322848506401115,
+      "reached": 0,
+      "draws": 20000,
+      "plus_one_tail": 4.999750012499375e-05
+    },
+    {
+      "statistic": "per_guide_drug_rank_percentile",
+      "observed": 78.09542437174017,
+      "median": 46.785324798482705,
+      "q025": 36.07752489331437,
+      "q975": 57.929356330014166,
+      "reached": 0,
+      "draws": 20000,
+      "plus_one_tail": 4.999750012499375e-05
+    },
+    {
+      "statistic": "HuP_T3_rank_percentile",
+      "observed": 91.60514461830252,
+      "median": 88.28093883357042,
+      "q025": 87.08023944997629,
+      "q975": 89.41880630630631,
+      "reached": 0,
+      "draws": 20000,
+      "plus_one_tail": 4.999750012499375e-05
+    },
+    {
+      "statistic": "KP4_rank_percentile",
+      "observed": 88.31733048838312,
+      "median": 84.83783783783784,
+      "q025": 83.60679231863442,
+      "q975": 86.08784969179708,
+      "reached": 0,
+      "draws": 20000,
+      "plus_one_tail": 4.999750012499375e-05
+    }
+  ],
+  "pool_support": [
+    {
+      "gene": "DPM1",
+      "decile": 2,
+      "same_decile_non_GPI_n": 1683,
+      "max_CAR_rank_distance_among_neighbours": 9.58438053225019
+    },
+    {
+      "gene": "DPM2",
+      "decile": 1,
+      "same_decile_non_GPI_n": 1683,
+      "max_CAR_rank_distance_among_neighbours": 5.103143212880742
+    },
+    {
+      "gene": "DPM3",
+      "decile": 5,
+      "same_decile_non_GPI_n": 1686,
+      "max_CAR_rank_distance_among_neighbours": 13.680743902872848
+    },
+    {
+      "gene": "GPAA1",
+      "decile": 1,
+      "same_decile_non_GPI_n": 1683,
+      "max_CAR_rank_distance_among_neighbours": 5.571817949831938
+    },
+    {
+      "gene": "MPDU1",
+      "decile": 2,
+      "same_decile_non_GPI_n": 1683,
+      "max_CAR_rank_distance_among_neighbours": 6.211511393265316
+    },
+    {
+      "gene": "PGAP1",
+      "decile": 5,
+      "same_decile_non_GPI_n": 1686,
+      "max_CAR_rank_distance_among_neighbours": 7.102064993805973
+    },
+    {
+      "gene": "PGAP2",
+      "decile": 1,
+      "same_decile_non_GPI_n": 1683,
+      "max_CAR_rank_distance_among_neighbours": 4.895398129624513
+    },
+    {
+      "gene": "PGAP3",
+      "decile": 6,
+      "same_decile_non_GPI_n": 1683,
+      "max_CAR_rank_distance_among_neighbours": 6.37074217781666
+    },
+    {
+      "gene": "PIGA",
+      "decile": 4,
+      "same_decile_non_GPI_n": 1681,
+      "max_CAR_rank_distance_among_neighbours": 11.180696817669155
+    },
+    {
+      "gene": "PIGB",
+      "decile": 3,
+      "same_decile_non_GPI_n": 1683,
+      "max_CAR_rank_distance_among_neighbours": 7.997402094822738
+    },
+    {
+      "gene": "PIGC",
+      "decile": 4,
+      "same_decile_non_GPI_n": 1681,
+      "max_CAR_rank_distance_among_neighbours": 11.134460243101687
+    },
+    {
+      "gene": "PIGF",
+      "decile": 6,
+      "same_decile_non_GPI_n": 1683,
+      "max_CAR_rank_distance_among_neighbours": 13.725550120561731
+    },
+    {
+      "gene": "PIGG",
+      "decile": 2,
+      "same_decile_non_GPI_n": 1683,
+      "max_CAR_rank_distance_among_neighbours": 6.949668563523346
+    },
+    {
+      "gene": "PIGH",
+      "decile": 1,
+      "same_decile_non_GPI_n": 1683,
+      "max_CAR_rank_distance_among_neighbours": 5.4037056807455786
+    },
+    {
+      "gene": "PIGK",
+      "decile": 3,
+      "same_decile_non_GPI_n": 1683,
+      "max_CAR_rank_distance_among_neighbours": 15.122540680216765
+    },
+    {
+      "gene": "PIGL",
+      "decile": 4,
+      "same_decile_non_GPI_n": 1681,
+      "max_CAR_rank_distance_among_neighbours": 11.1927051506057
+    },
+    {
+      "gene": "PIGM",
+      "decile": 1,
+      "same_decile_non_GPI_n": 1683,
+      "max_CAR_rank_distance_among_neighbours": 5.393515623659818
+    },
+    {
+      "gene": "PIGN",
+      "decile": 9,
+      "same_decile_non_GPI_n": 1686,
+      "max_CAR_rank_distance_among_neighbours": 13.749634639863643
+    },
+    {
+      "gene": "PIGO",
+      "decile": 3,
+      "same_decile_non_GPI_n": 1683,
+      "max_CAR_rank_distance_among_neighbours": 14.075318752916916
+    },
+    {
+      "gene": "PIGP",
+      "decile": 6,
+      "same_decile_non_GPI_n": 1683,
+      "max_CAR_rank_distance_among_neighbours": 13.957504678581603
+    },
+    {
+      "gene": "PIGQ",
+      "decile": 4,
+      "same_decile_non_GPI_n": 1681,
+      "max_CAR_rank_distance_among_neighbours": 11.021023755154875
+    },
+    {
+      "gene": "PIGS",
+      "decile": 3,
+      "same_decile_non_GPI_n": 1683,
+      "max_CAR_rank_distance_among_neighbours": 15.168812979549125
+    },
+    {
+      "gene": "PIGT",
+      "decile": 2,
+      "same_decile_non_GPI_n": 1683,
+      "max_CAR_rank_distance_among_neighbours": 9.630036020457995
+    },
+    {
+      "gene": "PIGV",
+      "decile": 4,
+      "same_decile_non_GPI_n": 1681,
+      "max_CAR_rank_distance_among_neighbours": 11.12513176866297
+    },
+    {
+      "gene": "PIGW",
+      "decile": 4,
+      "same_decile_non_GPI_n": 1681,
+      "max_CAR_rank_distance_among_neighbours": 11.186854896707366
+    }
+  ]
+}

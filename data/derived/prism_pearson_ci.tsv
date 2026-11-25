@@ -1,0 +1,3 @@
+association	n	r	ci_method	ci95_low	ci95_high	purpose_or_limit
+GPI expression score vs MRTX1133 AUC	17	0.057	Fisher-z, two-sided 95%	-0.436	0.523	Baseline association; wide interval includes both negative and positive associations
+GPI dependency score vs MRTX1133 AUC	15	0.283	Fisher-z, two-sided 95%	-0.268	0.695	12-GPI-gene mean dependency; wide interval includes zero and both directions
